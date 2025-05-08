@@ -150,20 +150,3 @@ body:not(.home-page) .background {
     z-index: 1000;
 }
 
-.link-btn {
-    background-color: #f0db4f;
-    color: #000;
-    padding: 0.25rem 0.75rem;
-    font-size: 0.85rem;
-    border-radius: 6px;
-    font-weight: bold;
-    text-decoration: none;
-    transition: all 0.3s ease;
-}
-
-    .link-btn:hover {
-        background-color: #ffcc00;
-        color: black;
-        transform: scale(1.05);
-    }
-
